@@ -1,8 +1,8 @@
-# QwenPaw Test Project
+# QwenPaw Test
 
 This is a test repository for Codex integration.
 
-## Features
-- Test 1
-- Test 2
-- Test 3
+## New Features
+- Test item 1
+- Test item 2
+- Test item 3
